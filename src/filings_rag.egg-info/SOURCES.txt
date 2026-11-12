@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/filings_rag/__init__.py
+src/filings_rag.egg-info/PKG-INFO
+src/filings_rag.egg-info/SOURCES.txt
+src/filings_rag.egg-info/dependency_links.txt
+src/filings_rag.egg-info/top_level.txt
+tests/test_hello.py
